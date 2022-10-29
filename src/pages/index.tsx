@@ -12,6 +12,7 @@ const Home: React.FC = () => {
 
       <main>
         <div>IndexPage</div>
+        <h1 className="text-3xl font-bold underline">Hello world!</h1>
         <Button />
       </main>
 
